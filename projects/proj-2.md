@@ -11,4 +11,4 @@ When I was at Dubsmash we built 4 separate Apollo / Typescript / React apps, dep
 
 The public facing site was heavily optimized for performance and went through 3 separate complete rebuilds as our ideas pivoted. We also experimented with a few other products on web, including a way for users to edit videos online. Below is a picture and a link to the landing page that stands there today.
 
-{% include image.html url="http://www.dubsmash.com" image="projects/proj-2/dubsmash-landing.jpg" %}
+{% include image.html url="http://www.dubsmash.com" image="projects/proj-2/dubsmash-landing.png" %}

@@ -11,6 +11,6 @@ Also at EPIX I built an HTMl5 app for streaming movies on set top boxes, includi
 
 The tv app was also the first time I took the technical lead on a non-minor project, which was pretty neat.
 
-{% include image.html url="http://www.epix.com" image="projects/proj-3/1.jpg" %}
-{% include image.html url="http://www.epix.com" image="projects/proj-3/2.jpg" %}
-{% include image.html url="http://www.epix.com" image="projects/proj-3/3.jpg" %}
+{% include image.html url="http://www.epix.com" image="projects/proj-3/1.png" %}
+{% include image.html url="http://www.epix.com" image="projects/proj-3/2.png" %}
+{% include image.html url="http://www.epix.com" image="projects/proj-3/3.png" %}
