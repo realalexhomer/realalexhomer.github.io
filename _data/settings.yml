@@ -42,12 +42,12 @@ disqus:
 about: >
   # Alex Homer
 
-  I've been working as a developer since 2013. My favorite technologies include Typescript, Node, React and GraphQL.
+  Hi! My name is Alex and I've been working as a developer since 2013. I spent several years living in New York City before moving to Portland, OR. My favorite technologies include Typescript, Node, React and GraphQL. I'm also really into travelling, guitar, backpacking and internal arts.
 
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:realalexhomer@gmail.com)
+  You can email me at [realalexhomer@gmail.com](mailto:realalexhomer@gmail.com)
 
 #-------------------------------
 # Work Section
@@ -56,17 +56,13 @@ projects:
 - {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+
+- {icon: 'github', link: 'https://github.com/realalexhomer'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/realalexhomer/'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
